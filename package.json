@@ -29,9 +29,12 @@
   "dependencies": {
     "airtable": "^0.5.8",
     "apiai": "^4.0.3",
+    "bluebird": "^3.5.3",
     "d20": "^1.4.1",
     "discord.js": "^11.4.2",
+    "express": "^4.16.4",
     "generic-game": "^0.2.8",
+    "node-fetch": "^2.3.0",
     "socket.io": "^2.2.0"
   }
 }
