@@ -1,0 +1,37 @@
+{
+  "name": "textstation",
+  "version": "1.0.0",
+  "description": "As a big fan of Space Station 13 and MUDs, I was curious as to why no one has every really done much to combine the two.  This is an experimental idea that I plan to play around with share.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakuzadave/textstation.git"
+  },
+  "keywords": [
+    "rpg",
+    "mud",
+    "game",
+    "text",
+    "adventure",
+    "multiple",
+    "socket.io",
+    "websocket"
+  ],
+  "author": "Dave Carmocan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yakuzadave/textstation/issues"
+  },
+  "homepage": "https://github.com/yakuzadave/textstation#readme",
+  "dependencies": {
+    "airtable": "^0.5.8",
+    "apiai": "^4.0.3",
+    "d20": "^1.4.1",
+    "discord.js": "^11.4.2",
+    "generic-game": "^0.2.8",
+    "socket.io": "^2.2.0"
+  }
+}
