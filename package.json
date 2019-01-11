@@ -35,6 +35,7 @@
     "express": "^4.16.4",
     "generic-game": "^0.2.8",
     "node-fetch": "^2.3.0",
+    "pug": "^2.0.3",
     "socket.io": "^2.2.0"
   }
 }
