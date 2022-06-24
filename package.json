@@ -34,7 +34,7 @@
     "discord.js": "^11.4.2",
     "express": "^4.16.4",
     "generic-game": "^0.2.8",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.7",
     "pug": "^2.0.3",
     "socket.io": "^2.2.0"
   }
