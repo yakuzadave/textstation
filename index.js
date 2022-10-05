@@ -1,9 +1,8 @@
-const fetch = require('node-fetch')
-const request = require('request');
-const pug = require('pug');
-const expressServer = require('./textstation/app');
+const axios = require('axios')
+//const pug = require('pug');
+//const expressServer = require('./textstation/app');
 const d20 = require('d20');
-const socket = require('socket.io')
+//const socket = require('socket.io')
 
 
 
