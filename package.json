@@ -32,7 +32,7 @@
     "bluebird": "^3.5.3",
     "d20": "^1.4.1",
     "discord.js": "^11.4.2",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "generic-game": "^0.2.8",
     "node-fetch": "^2.6.7",
     "pug": "^3.0.1",
